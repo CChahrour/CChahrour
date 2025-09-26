@@ -7,5 +7,5 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChahrour&layout=compact&hide=css,html&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChahrour&layout=compact&hide=css,html,scss&langs_count=6&theme=dracula)
 
